@@ -21,6 +21,8 @@ import mx.tecnm.piedad.dao.PlanesJDBC;
 import mx.tecnm.piedad.models.Cuentas;
 import mx.tecnm.piedad.models.Planes;
 
+//Comentario para subir a Github
+
 @RestController
 @RequestMapping ("/planes")
 @CrossOrigin(origins = "*", methods= {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE, RequestMethod.PATCH})
