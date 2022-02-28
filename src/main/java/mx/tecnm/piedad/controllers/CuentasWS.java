@@ -22,6 +22,8 @@ import mx.tecnm.piedad.dao.PerfilesJDBC;
 import mx.tecnm.piedad.models.Cuentas;
 import mx.tecnm.piedad.models.Perfiles;
 
+//Hola soy Karen
+
 @RestController
 @RequestMapping("/cuentas")
 @CrossOrigin(origins = "*", methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE, RequestMethod.PATCH})
